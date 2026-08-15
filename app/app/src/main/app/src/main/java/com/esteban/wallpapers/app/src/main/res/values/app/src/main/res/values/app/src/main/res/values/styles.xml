@@ -1,0 +1,13 @@
+.github/
+app/
+├── build.gradle
+└── src/
+    └── main/
+        ├── AndroidManifest.xml
+        ├── java/com/esteban/wallpapers/MainActivity.java
+        └── res/values/
+            ├── colors.xml
+            ├── strings.xml
+            └── styles.xml
+build.gradle
+settings.gradle
